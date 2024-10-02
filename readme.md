@@ -9,6 +9,7 @@ This project explores customer reviews of iPhones, using natural language proces
 
 ## Sample Visualizations
 ![Positive Review Word Cloud](outputs/positive_reviews_cloud.png)
+![Neutral Review Word Cloud](outputs/positive_reviews_cloud.png)
 ![Negative Review Word Cloud](outputs/negative_reviews_cloud.png)
 
 ## Future Improvements
